@@ -8,6 +8,8 @@
 # git branch name - оздать новую ветку имя для нее 
 # git branch -v  - проверить ветки 
 # git checkout Roman - перейти в  папку
+# git add . - прохождения процедуры упаковка моркировка отправка всех изменений 
+# git commit -m 'name Schedule project'
 
 # def func():
 #     flag = True
