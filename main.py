@@ -10,6 +10,7 @@
 # git checkout Roman - перейти в  папку
 # git add . - прохождения процедуры упаковка моркировка отправка всех изменений 
 # git commit -m 'name Schedule project'
+# git push origin name -опубликовать
 
 # def func():
 #     flag = True
